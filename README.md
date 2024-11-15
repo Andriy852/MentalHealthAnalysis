@@ -29,7 +29,8 @@ Our exploratory data analysis revealed several key insights:
 
    * **Work Environment:** Remote and office workers showed no significant difference in mental health outcomes, suggesting that work environment may not be a major factor.
 
-Source:
+## Source:
+
 The data was downloaded on kaggle website: https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry/data.
 
 To run the project's notebooks, install the following libraries:
